@@ -1,2 +1,2 @@
-# ML_Assignment_2022
+# ML_Assignments_2022
 
